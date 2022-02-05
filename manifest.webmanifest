@@ -2,7 +2,7 @@
     "background_color": "purple",
     "description": "Shows random fox pictures. Hey, at least it isn't cats.",
     "display": "fullscreen",
-    "start_url": "/index.html",
+    "start_url": "/?source=pwa",
     "icons": [
         {
             "src": "mine.jpg",
