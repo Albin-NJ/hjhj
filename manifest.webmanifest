@@ -30,7 +30,8 @@
           }
     ],
     "name": "Awesome fox pictures",
-    "short_name": "Foxes"
+    "short_name": "Foxes",
+    "scope": "."
     
   }
   
