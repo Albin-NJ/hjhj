@@ -4,7 +4,7 @@
     "display": "fullscreen",
     "icons": [
         {
-            "src": "android/android-launchericon-512-512.png",
+            "src": "mine.jpg",
             "sizes": "512x512"
           },
           {
